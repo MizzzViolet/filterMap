@@ -1,0 +1,21 @@
+{
+  "name": "filter-map-array",
+  "version": "1.0.0",
+  "description": "Filters array of objects and returns specified object",
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": {
+    "build": "babel src -d dist"
+  },
+  "keywords": [
+    "filter-map-array",
+    "filterMap",
+    "npm",
+    "package",
+    "jtalukder"
+  ],
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-es2015": "^6.24.1"
+  }
+}
