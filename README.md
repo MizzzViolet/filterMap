@@ -1,4 +1,4 @@
-# filterMap
+# filter-map-array
 
 Filters array of objects and returns value/s of specified object
 
