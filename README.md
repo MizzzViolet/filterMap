@@ -1,6 +1,6 @@
 # filterMap
 
-Filters array of objects and returns specified object
+Filters array of objects and returns value/s of specified object
 
 ## Install
 
