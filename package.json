@@ -1,12 +1,14 @@
 {
   "name": "filter-map-array",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "description": "Filters array of objects and returns specified object",
   "license": "MIT",
   "main": "index.js",
   "scripts": {
     "build": "babel src -d dist"
   },
+  "homepage": "https://github.com/MizzzViolet/filterMap#readme",
+  "repository": "MizzzViolet/filterMap",
   "keywords": [
     "filter-map-array",
     "filterMap",
